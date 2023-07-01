@@ -18,3 +18,7 @@ body {
   display: block;
   padding-bottom: 4svh;
 }
+
+#footer {
+  color: #fefae0;
+}
