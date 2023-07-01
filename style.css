@@ -1,6 +1,16 @@
 body {
-    background-color: #0d1117;
+    background-color: #001d3d;
     color: aliceblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif, Courier, monospace;
     text-align: center;
+}
+
+#text {
+    padding-block: 3vh;
+    padding-inline: 10vw;
+    color: aqua;
+}
+
+#lang {
+padding-bottom: 4svh;
 }
