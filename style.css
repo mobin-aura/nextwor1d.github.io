@@ -8,14 +8,14 @@ body {
 }
 
 #text {
-  display: block;
   padding-block: 3vh;
   padding-inline: 10vw;
   color: aqua;
 }
 
 #lang {
-  display: block;
+  padding-block: 3vh;
+  padding-inline: 10vw;
   padding-bottom: 4svh;
 }
 
